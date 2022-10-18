@@ -17,7 +17,7 @@ localhost:8080/ "Home"
 ### Rest with local json file. Thats displaying in consol and on route.
 ### Added Cors for cross connection from backend to frontend
 
-## Packeges
+## Packages
 ### "github.com/gorilla/mux" , "github.com/rs/cors"
 ````
 install packages by for "CORS"
